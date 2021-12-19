@@ -1,23 +1,31 @@
-## Bem-vindes ao meu perfil! 👋
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/" />
-</p>
+<h1 align="center">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem-vindes ao meu perfil 🖤</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=natalia-tavares&color=red" alt="Profile views" /> </p>
 
-<p align="center">
-  <em> Natália Tavares • ela/dela • 24 anos •  Santo André, São Paulo</em>
-  <br>  Front end • Mobile - Android 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/82004749/146660941-601423e2-e2d5-42fd-90ec-c49077e6994e.gif" width="45%"  />
+  </div>
+
+  <h2 align="center"> Natália Tavares • ela/dela • 🌈• 25 anos •  Santo André, São Paulo</h2>
+  <h2 align="center">  Front end • Mobile - Android</h2>
   <br>
-  <br>Olá, tudo bem? Aqui compartilho um pouquinho de tudo que aprendo. 
-  <br>Meu foco atual está em <em>front-end web</em>, no entanto, eu adoro aprender coisas novas, então não estranhe se achar algo diferente por aqui!
-<br>Confira um pouquinho mais sobre as minhas contribuições e venha se conectar comigo nas minhas redes sociais. <br><br><strong>Toda troca é enriquecedora!<strong> 😊
- - 🔭 Hoje eu foco em *front-end*
-- 🌱 Estou, atualmente, tentando me aprofundar mais em: *HTML*/*CSS*, *Javascript*, *Typescript* e *React*.
-- 📫 Contate-me! → ssiqueirajessica@gmail.com
+  <h3 align="center">Aqui compartilho um pouquinho dos meus projetos - (meus filhos para os íntimos 😂)</h3>
+  <p align="center">
+  <br>Meu foco é em <em>front-end web e mobile</em>, mas eu adoro aprender coisas novas e explorar novos mundos.🚀
+  <br> Novidades, criatividade e possibilidades é o que me move.👩‍💻
+<br> Estou cursando o 1º Semestre de Analise e Desenvolvimento de Sistemas pelo SENAC. 🏫
+  <br>Ex alune da Generation Brasil turma de Mobile 👩‍🎓
+  <br>Um pouco viciada em Bootcamps e cursos para evoluir cada vez mais (conhecimento nunca é demais)✨👩‍🚀
+  <br> <strong>Estou atualmente me aprofundando em: React e Kotlin.🎯 <strong> 
+ 
+
 
 </p>
   
   <div align="center">
+    <br>
+    <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
+    <br>
   <a href="https://github.com/natalia-tavares">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=natalia-tavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-tavares&layout=compact&langs_count=7&theme=dracula"/>
@@ -33,13 +41,14 @@
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
 </div>
    
-## 
-    
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/jessicassiqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:ssiqueirajessica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/natalia-tavares/natalia-tavares/blob/output/github-contribution-grid-snake.svg)
- 
- </div> 
+  <h3 align="center"> Para mais informações entre em contato 💬
+    <br> E volte sempre que quiser 😊
+  </h3>
+   <a href="https://www.linkedin.com/in/natalia-tavares-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:the-nat@hotmil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/2jqqtSvmT5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/82004749/146660129-3f6e4eeb-70ef-46c3-916f-fb19cefeea14.png" width="20%" />
+  </div> </div>
+    
