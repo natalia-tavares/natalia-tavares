@@ -13,10 +13,10 @@
   <p align="center">
   <br>Meu foco é em <em>front-end web e mobile</em>, mas eu adoro aprender coisas novas e explorar novos mundos.🚀
   <br> Novidades, criatividade e possibilidades é o que me move.👩‍💻
-<br> Estou cursando o 1º Semestre de Analise e Desenvolvimento de Sistemas pelo SENAC. 🏫
-  <br>Ex alune da Generation Brasil turma de Mobile 👩‍🎓
+<br> Estou cursando Analise e Desenvolvimento de Sistemas pelo SENAC. 🏫
+  <br>Formanada no bootcamp da Generation Brasil turma de Mobile 👩‍🎓
   <br>Um pouco viciada em Bootcamps e cursos para evoluir cada vez mais (conhecimento nunca é demais)✨👩‍🚀
-  <br> <strong>Estou atualmente me aprofundando em: React e Kotlin.🎯 <strong> 
+  <br> <strong>Estou atualmente me aprofundando em: React 🎯 <strong> 
  
 
 
