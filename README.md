@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/82004749/146660941-601423e2-e2d5-42fd-90ec-c49077e6994e.gif" width="45%"  />
   </div>
 
-  <h2 align="center"> Natália Tavares • ela/dela • 🌈• 25 anos •  Santo André, São Paulo</h2>
+  <h2 align="center"> Natália Tavares • ela/dela • 🌈• 26 anos •  Santo André, São Paulo</h2>
   <h2 align="center">  Front end • Mobile - Android</h2>
   <br>
   <h3 align="center">Aqui compartilho um pouquinho dos meus projetos - (meus filhos para os íntimos 😂)</h3>
